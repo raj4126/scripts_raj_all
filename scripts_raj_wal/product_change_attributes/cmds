@@ -1,0 +1,9 @@
+scp product_udf_counts.py catint@10.226.75.222:/home/catint/raj/product_attributes_changed/counts/hive/udf/
+scp product_attributes__daily_counts_cron_v3.py catint@10.226.75.222:/home/catint/raj/product_attributes_changed/counts/hive/udf/
+
+
+scp catint@10.226.75.222:/home/catint/raj/product_attributes_changed/counts/diffs/product_attributes_updated_daily_cron.py .
+scp filename catint@10.226.75.222:/home/catint/raj/product_attributes_changed/counts/diffs
+
+ Scribe logs on cdc machine:
+ tail -f /log/scribe/scribe.log
