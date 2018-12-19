@@ -82,44 +82,8 @@ class ProductTopAttributesCron:
                                 ]
         
         self.receiver_dist = [
-                        'aj@Jet.com',
                         'anil@walmartlabs.com',
-                        'edison@jet.com',
-                        'ASipher@walmartlabs.com',
-                        'AVarma@walmartlabs.com',
-                        'Brijesh.Singh@walmart.com', 
-                        'BSingh1@walmartlabs.com',
-                        'CFrisch@walmartlabs.com',
-                        'charles@jet.com',
-                        'CSeto@walmart.com',          
-                        'DGoyret@walmart.com', 
-                        'DNewman@walmart.com',
-                        'DSerpico@walmartlabs.com',
-                        'emachleder@walmartlabs.com',
-                        'FPoorooshasb@walmart.com',
-                        'GAhluwalia@walmart.com',
-                        'GKALL@email.wal-mart.com',
-                        'GKhandelwal1@walmartlabs.com', 
-                        'GMacdonald@walmart.com',
-                        'gregd@walmartlabs.com', 
-                        'GRekhi@walmartlabs.com', 
-                        'JEfron@walmartlabs.com', 
-                        'JFerraro@walmartlabs.com', 
-                        'KBermudes@walmart.com',
-                        'MGarimella@walmart.com', 
-                        'OSiddiqui@walmartlabs.com', 
-                        'PMessina@walmartlabs.com',
-                        'qarthteam@email.wal-mart.com',
-                        'RHua@walmart.com',
-                        #'SKumar3@walmartlabs.com', ##this user asked for taking out his name from the list
-                        'SMatt@walmartlabs.com', 
-                        'STeng@walmartlabs.com',
-                        'USingh0@walmartlabs.com',
-                        #'VenkyTeam@wal-mart.com',
-                        'VKALL@email.wal-mart.com',
-                        'Zuzar.Nafar@walmartlabs.com',
-                        'Rkumar1@walmartlabs.com',
-                        'SSingikulam@walmartlabs.com'
+                        'Rkumar1@walmartlabs.com'
                         ]
         
         self.temp2_product_attributes_counts3_lines = []
