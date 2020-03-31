@@ -1,0 +1,5 @@
+use token instead of pswd:
+token:  bbc8accae2ab2e341cbaa9531ae63439bf73f2da
+
+login: rxx4nnn
+pswd: Mxxx.4nnn
