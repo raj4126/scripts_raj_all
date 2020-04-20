@@ -1,5 +1,5 @@
 use token instead of pswd:
-token:  bbc8accae2ab2e341cbaa9531ae63439bf73f2da
+token/deprecated:  bbc8accae2ab2e341cbaa9531ae63439bf73f2da
 token2: 7552fb590c2382b93e7017481b8d468bd75890bb
 login: rxx4nnn
 pswd: Mxxx.4nnn
